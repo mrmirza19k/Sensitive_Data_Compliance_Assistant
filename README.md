@@ -169,7 +169,7 @@ Google Gemini Flash analyzes the extracted document and generates:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Sensitive_Data_Compliance_Assistant.git
+git clone https://github.com/mrmirza19k/Sensitive_Data_Compliance_Assistant.git
 ```
 
 ---
@@ -300,7 +300,6 @@ The application can be deployed using:
 
 * Streamlit Community Cloud
 * Render
-* Railway
 
 ---
 
